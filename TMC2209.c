@@ -1,3 +1,11 @@
+/**
+ * @file AS5600.c
+ * @author JanG175
+ * @brief ESP IDF component for the TMC2209
+ * 
+ * @copyright Apache 2.0
+ */
+
 #include <stdio.h>
 #include "TMC2209.h"
 
