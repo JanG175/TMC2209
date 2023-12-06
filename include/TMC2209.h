@@ -1,3 +1,11 @@
+/**
+ * @file AS5600.c
+ * @author JanG175
+ * @brief ESP IDF component for the TMC2209
+ * 
+ * @copyright Apache 2.0
+ */
+
 #include <stdio.h>
 #include "driver/gptimer.h"
 #include "driver/gpio.h"
